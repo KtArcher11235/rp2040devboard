@@ -5,6 +5,8 @@ a signature devboard based on the rp2040 designed to be as minimal as possible, 
 
 
 ## specs
+- rp2040
 - 16 MiB Flash
 - LED on gipo25
 - 12 MHz crystal
+- USB interface with voltage regulator
